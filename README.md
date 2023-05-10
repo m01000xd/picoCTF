@@ -1,2 +1,2 @@
 # picoCTF
-Write_Up
+Write_Up các bài giải được trong picoCTF
