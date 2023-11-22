@@ -24,7 +24,7 @@ Thuật toán gồm 2 hàm chính:
 
 Thực chất 100 kí tự viết liền thực ra là 50 kí tự được chuyển sang hệ 16 rồi join lại. Giờ ta sẽ bắt tay code lại để ra được flag:
 
-```
+```python
 valid_char = "abcdef0123456789"
 dest = [0]*100
 s1 = [0]*100
@@ -67,7 +67,7 @@ print(flag)
 
 **Flag:**
 
-```
+```python
 picoCTF{cust0m_jumbl3s_4r3nt_4_g0Od_1d3A_db877006}
 ```
 
